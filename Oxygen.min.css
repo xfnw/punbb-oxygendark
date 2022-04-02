@@ -1672,7 +1672,7 @@ td.actions span {
     border-bottom-style: dashed;
     border-bottom-width: 1px;
     margin-bottom: .5em;
-    color: #294f6e
+    color: #a9bfee
 }
 #brd-messages {
     text-align: center;
@@ -2024,7 +2024,7 @@ ul li strong {
     background: #444
 }
 .help-box .hn {
-    color: #294f6e
+    color: #a9bfee
 }
 #rules-content {
     background: #111
