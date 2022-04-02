@@ -1975,7 +1975,7 @@ h4.post-title,
     background: #222
 }
 .main-content .info-box {
-    background: #111fe1
+    background: #1e1f1b
 }
 .main-extensions .extension,
 .main-hotfixes .hotfix {
@@ -2001,11 +2001,11 @@ h4.post-title,
 }
 .info-list li,
 .error-list li {
-    color: #5d5636
+    color: #eee
 }
 .info-list li span,
 .error-list li span {
-    color: #5d5636
+    color: #eee
 }
 ul li strong {
     color: #eee
