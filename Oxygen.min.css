@@ -1899,11 +1899,11 @@ td {
     color: #888
 }
 .main-content .sticky {
-    background: #f2f4fa
+    background: #222
 }
 .main-content .main-item .hn .item-status em.sticky,
 .main-content .main-item .hn .item-status em.closed {
-    color: #314b60;
+    color: #eee;
     font-weight: bold
 }
 .main-content .main-item .hn .item-status em.moved {
