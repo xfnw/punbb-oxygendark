@@ -1859,10 +1859,7 @@ a:focus {
     color: #cd0021;
 }
 .entry-content a:visited {
-    color: #909
-}
-.entry-content a:visited:hover {
-    color: #cd0021
+    color: #eae
 }
 .sig-content a,
 .sig-content a:visited {
@@ -1872,11 +1869,11 @@ a:focus {
 .sig-content a:active,
 .sig-content a:focus,
 .sig-content a:visited:hover {
-    color: #333;
+    color: #aaa;
     text-decoration: none
 }
 .entry-content h5 {
-    color: #d93315
+    color: #f97365
 }
 .gen-content,
 .main-content {
