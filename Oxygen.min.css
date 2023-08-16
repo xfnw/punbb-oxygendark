@@ -1833,7 +1833,8 @@ td.actions span {
 }
 body {
     background: #111;
-    color: #eee
+    color: #eee;
+    color-scheme: dark;
 }
 a:focus {
     outline: 0
